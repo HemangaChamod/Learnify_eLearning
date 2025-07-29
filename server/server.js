@@ -17,7 +17,10 @@ await connectDB()
 await connectCloudinary()
 
 // Middlewares
-app.use(cors())
+app.use(cors({
+  origin: 'https://lms-frontend-livid-three.vercel.app',
+  credentials: true,
+}))
 app.use(clerkMiddleware())
 
 // Routes
