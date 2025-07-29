@@ -1,4 +1,5 @@
-import logo from './logo.svg'
+import hero_girl from './hero_girl.png';
+import logo from './logo.png'
 import logo_dark from './logo_dark.svg'
 import search_icon from './search_icon.svg'
 import cross_icon from './cross_icon.svg'
@@ -45,6 +46,7 @@ import lesson_icon from './lesson_icon.svg'
 
 
 export const assets = {
+    hero_girl,
     logo,
     search_icon,
     sketch,
