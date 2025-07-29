@@ -1,3 +1,3 @@
 ## 🚀 Live Demo
 
-🔗 https://lms-frontend-livid-three.vercel.app/
+🔗 https://learnify-e-learning-ikch.vercel.app/
