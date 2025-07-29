@@ -18,7 +18,7 @@ await connectCloudinary()
 
 // Middlewares
 app.use(cors({
-  origin: 'https://lms-frontend-livid-three.vercel.app',
+  origin: "https://learnify-e-learning-ikch.vercel.app",
   credentials: true,
 }))
 app.use(clerkMiddleware())
